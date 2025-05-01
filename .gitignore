@@ -1,0 +1,8 @@
+experiments/
+**/**/__pycache__
+processed_data_noise
+**/**/**/**/__pycache__/
+*.pyc
+ptc_challenge_data
+raw_data
+processed_data_noise**/
